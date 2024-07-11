@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Almanzoris
 - 👀 I’m interested in mathematics and scripting.
-- 🌱 I’m currently learning mathematics.
+- 🌱 I have a degree in mathematics.
 - 💞️ I’m looking to collaborate on whatever.
 - 📫 How to reach me ...
 
