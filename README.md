@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Almanzoris
-- 👀 I’m interested in mathematics and scripting.
-- 🌱 I have a degree in mathematics.
-- 💞️ I’m looking to collaborate on whatever.
+- 👋 Hi, I am @Almanzoris.
+- 🧮 I am 22.
+- 👀 I am interested in mathematics and scripting.
+- 🌱 I have a Bachelor's degree in mathematics.
+- 💞️ I am looking to collaborate on whatever.
 - 📫 How to reach me ...
 
 <!---
