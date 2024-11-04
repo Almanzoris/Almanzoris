@@ -3,7 +3,7 @@
 - 👀 I am interested in mathematics and scripting.
 - 🌱 I have a Bachelor's degree in mathematics.
 - 💞️ I am looking to collaborate on whatever.
-- 📫 How to reach me ...
+- 📫 How to reach me: through my repository named "Alman's Mailbox".
 
 <!---
 Almanzoris/Almanzoris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
